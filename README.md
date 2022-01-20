@@ -31,10 +31,12 @@ dynamic,static, short-circuit power και leakage. Ανατρέξτε στη β
 
 **_Ερώτημα 1:_**
 
-We compare the output of McPAT against published data for the 90nm Niagara processor [34] running at 1.2GHz
-with a 1.2V power supply, the 65nm Niagara2 processor [41] running at 1.4GHz with a 1.1V power supply, the 65nm
-Xeon processor [45] running at 3.4GHz with a 1.25V power supply, and the 180nm Alpha 21364 processor [24] run-
-ning at 1.2GHz with a 1.5V power supply. 
+Η επικύρωση του McPat έγινε συγκρίνοντας τα αποτελέσματα του με δημοσιευμένα δεδομένα για τους ακόλουθους επεξεργαστές: 
+
+* 90nm Niagara στα 1.2GHz με τροφοδοσία 1.2V
+* 65nm Niagara2 στα 1.4GHz με τροφοδοσία 1.1V
+* 65nm Xeon στα 3.4GHz με τροφοδοσία 1.25V
+* 180nm Alpha 21364 στα 1.2GHz με τροφοδοσία 1.5V
 
 _**Ερώτημα 2:**_
 
